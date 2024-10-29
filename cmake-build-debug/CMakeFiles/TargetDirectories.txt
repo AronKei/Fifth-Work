@@ -1,0 +1,3 @@
+C:/Users/Aron/CLionProjects/the fifth work of SHX/cmake-build-debug/CMakeFiles/control.elf.dir
+C:/Users/Aron/CLionProjects/the fifth work of SHX/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aron/CLionProjects/the fifth work of SHX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
