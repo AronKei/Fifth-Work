@@ -23,7 +23,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69b5c9d6-ff2f-466e-87c9-63fa428879e0" name="更改" comment="git remote add origin https://github.com/AronKei/Fifth-Work.git&#10;git branch -M main&#10;git push -u origin main" />
+    <list default="true" id="69b5c9d6-ff2f-466e-87c9-63fa428879e0" name="更改" comment="git remote add origin https://github.com/AronKei/Fifth-Work.git&#10;git branch -M main&#10;git push -u origin main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AronKei"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AronKei/Fifth-Work.git",
+    "accountId": "28e0ecfa-907a-4e3e-a07c-107cdf28a06d"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/applications/remote_control.c" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -65,14 +79,14 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Aron/CLionProjects/the fifth work of SHX",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,12 +95,7 @@
       <recent name="C:\Users\Aron\CLionProjects\tripod head - 副本\bsp" />
     </key>
   </component>
-  <component name="RunManager" selected="OpenOCD 下载并运行.OCD control">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake 应用程序.control.elf">
     <configuration name="control.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="control" TARGET_NAME="control.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="control" RUN_TARGET_NAME="control.elf">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -123,7 +132,9 @@
       <workItem from="1729322191912" duration="57036000" />
       <workItem from="1730199945633" duration="685000" />
       <workItem from="1730201073501" duration="5313000" />
-      <workItem from="1730207939911" duration="985000" />
+      <workItem from="1730207939911" duration="2682000" />
+      <workItem from="1730340567560" duration="93000" />
+      <workItem from="1730340691879" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="git remote add origin https://github.com/AronKei/Fifth-Work.git&#10;git branch -M main&#10;git push -u origin main">
       <option name="closed" value="true" />
